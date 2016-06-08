@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="2014302580184_胡喜杰_PetShopOnline:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/2014302580184__PetShopOnline_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="2014302580184_胡喜杰_PetShopOnline/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="2014302580184_胡喜杰_PetShopOnline" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
